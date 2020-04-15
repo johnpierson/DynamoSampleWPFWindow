@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/johnpierson/DynamoSampleWPFWindow/blob/master/resources/giphy.gif" alt="Nice" width="200">
+  <img src="https://github.com/johnpierson/DynamoSampleWPFWindow/blob/master/resources/giphy.gif" alt="Nice" width="400">
   <br>
   Sample WPF Window
   <br>
