@@ -17,7 +17,7 @@ This repository contains code for building a WPF window that can be fired off wi
 This code is meant as a "getting started" sample for folks trying to build UI into their Dynamo nodes.
 
 ## Usage
-After compiling the code, you can import the DLL directly into Dynamo.
+After compiling the code, you can import the DLL directly into Dynamo. (Note: With more effort you can create a package with the node)
 
 <img src="https://github.com/johnpierson/DynamoSampleWPFWindow/blob/master/resources/usage.gif" alt="SampleWPFWindow" width="800">
 
